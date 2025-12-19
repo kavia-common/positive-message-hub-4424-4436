@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////tmp/kavia/workspace/code-generation/positive-message-hub-4424-4436/database/myapp.db
+# File path: /tmp/kavia/workspace/code-generation/positive-message-hub-4424-4436/database/myapp.db

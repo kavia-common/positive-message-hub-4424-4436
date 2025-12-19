@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py",
+    "working_directory": "/tmp/kavia/workspace/code-generation/positive-message-hub-4424-4436/database"
+}
